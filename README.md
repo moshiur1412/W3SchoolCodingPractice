@@ -1,2 +1,5 @@
-# W3SchoolCodingPractice
-W3School is a freemium online coding learning website. Here I was trying to gather all codes within one reposity with my own short notes.
+# W3School Coding Practice
+
+W3School is a freemium online coding learning website. I have been trying to gather all codes within one repository with my short notes.
+
+
